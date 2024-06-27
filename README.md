@@ -1,0 +1,1 @@
+Building makemore by [Andrej Karpathy](https://www.youtube.com/watch?v=PaCmpygFfXo).
